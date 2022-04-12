@@ -29,7 +29,8 @@ This repo includes the a large-scale WSC-style binary choice questions to evalua
                 "is_X": X represents one in linguistic, knowledge, medical, casual, formal, and gender_bias. True/False denotes if the 
                 question belongs to the correpsonding category.
 
-                "data_source": original question source, including WinoGender, WSC, WinoGrande, KnowRef, I2B2, CoNLL, and CIC. Details are in the original paper.;
+                "data_source": original question source, including WinoGender, WSC, WinoGrande, KnowRef, I2B2, CoNLL, and CIC. 
+                Details are in the original paper.;
             
 ## Others
 If you have any other questions about this repo, you are welcome to open an issue or send me an [email](mailto:xzhaoar@connect.ust.hk), I will respond to that as soon as possible.
