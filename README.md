@@ -12,7 +12,9 @@ This repo includes the a large-scale WSC-style binary choice questions to evalua
 
 #### Dataset Format
 
-    Datatset: a list of WSC-style questions.
+Dataset: a dictionary with keys including train_data, dev_data, test_data, gender_test to visit the corresponding split;
+
+    Split: a list of WSC-style questions;
 
         Question: a dictionary. The keys and values are:
 
